@@ -3,4 +3,4 @@
 ._*
 results/x-*
 *nohup*
-
+*.DS_Store
